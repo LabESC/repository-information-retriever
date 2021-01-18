@@ -12,6 +12,8 @@ At this point, we don't have any environment variable needed to execute.
 The project is structured as follows:
 
 - main.py: our file containing main function. Check usage section to understand how to use it.
+- requirements.txt: our file containing package dependencies.
+- ecosystem_components: folder containing all kinds of ecosystem components.
 - utils: folder containing all kinds of utilities that might be used during execution.
   - files: folder containing utilities related to different types of files (reading/writing)
  
